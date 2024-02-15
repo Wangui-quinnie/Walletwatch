@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
 title: Walletwatch
 description: A Personal Expense Tracker
+show_downloads: true
+google_analytics:
